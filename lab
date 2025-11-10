@@ -1,0 +1,10 @@
+The lab/ folder is where you store cloud security artifacts:
+
+✅ Azure Secure Score screenshots
+✅ Defender for Cloud export
+✅ Sentinel incidents
+✅ Key Vault access logs
+✅ IAM role mappings
+✅ JSON of analytics rules
+
+You manually upload these as you work in Azure.
