@@ -11,10 +11,10 @@ It includes Azure security reviews, Sentinel analyses, IAM evaluations, architec
 - IAM / RBAC analysis
 
 ## 📁 What’s Inside
-- `docs/` – reports, playbooks, baselines, diagrams
-- `scripts/` – Python/PowerShell/Bash utilities
-- `lab/` – sample logs, datasets, IaC
-- `.github/` – issue/PR templates
+- docs/       - Security review reports, diagrams, templates
+- lab/        - Screenshots, logs, outputs, exported assessments
+- scripts/    - Optional PowerShell/Python/Bash utilities
+- .github/    - Issue/PR templates
 
 ## 🧪 Lab Setup (Quick Start)
 This lab uses a small Azure environment created using the Azure free tier, making it easy to replicate.
