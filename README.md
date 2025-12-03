@@ -124,7 +124,6 @@ Fill in:
 ✅ Optional automation scripts
 
 ## 🧠 What I Learned
-- Bullet points of concepts/skills you gained - Write what you learned about identity, cloud posture, Sentinel.
 - How Azure manages identity using Entra ID
 - How cloud logging differs from on-prem logs
 - How Microsoft Sentinel ingests, normalizes, and correlates data
